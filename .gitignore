@@ -1,4 +1,5 @@
 *.pyc
+.tmp/
 langs/*/*.html
 .DS_STORE
 build/
